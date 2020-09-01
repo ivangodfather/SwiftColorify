@@ -1,2 +1,3 @@
 # SwiftColorify
-A swift framework to easily colorify your apps!
+
+A description of this package.
