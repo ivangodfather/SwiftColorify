@@ -13,6 +13,7 @@ final class SwiftColorifyTests: XCTestCase {
     }
 
     static var allTests = [
-        ("testExample", testColorRedEquals),
+        ("testColorRedEquals", testColorRedEquals),
+        ("testInvalidColorReturnsNil", testInvalidColorReturnsNil),
     ]
 }
